@@ -23,3 +23,12 @@ You can register as admin as well as general user for comment.
 
 For admin user please go to ` App\Providers\AppServiceProviders.php `, You can change the admin name: puspjoshi to your username
 
+## Mailchimp
+
+if mailchimp does not work please add following in `.env` file
+
+`MAILCHIMP_KEY=`
+
+`MAILCHIMP_SERVER=`
+
+`MAILCHIMP_LIST=`
